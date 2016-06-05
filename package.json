@@ -1,0 +1,12 @@
+{
+  "name": "import-all",
+  "version": "1.0.0",
+  "description": "given the path to a directory containing javascript files, returns an array of all of their default exports",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlieschwabacher/import-all.git"
+  },
+  "main": "index.js",
+  "author": "Charlie Schwabacher",
+  "license": "MIT"
+}
